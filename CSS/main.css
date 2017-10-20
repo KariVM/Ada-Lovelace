@@ -1,0 +1,26 @@
+h1 {
+  outline: 1px solid yellow;
+  text-align: center;
+}
+
+.caja{
+  /*outline: 1px solid red; sirve para colocar un borde delgado*/
+  width: 420px; /* ancho del contenido*/
+  padding: 10px;
+  border: 1px solid #999;
+  /*margin: 16px;  /*para darle un espacio entre los elementos*/
+  box-sizing: border-box;
+  float: left;
+  margin-left: 8px;
+}
+
+img {
+  outline: 1px solid blue;
+  max-width: 100%;
+}
+
+p {
+  outline: 1px solid orange;
+}
+
+/*Float: propiedad de posicionamiento
